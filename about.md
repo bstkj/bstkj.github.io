@@ -21,7 +21,7 @@ models for continuous trait evolution, and in computational techniques that
 make parameter estimation for these models scalable to complex phylogenetic
 networks.
 
-My CV is available [here](/files/CV.pdf).
+My CV is available [here](/files/cv.pdf).
 
 <!-- ### Contact me -->
 
