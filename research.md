@@ -23,6 +23,9 @@ Have contributed or am contributing to:
 1. [PhyloGaussianBeliefProp.jl](https://github.com/cecileane/PhyloGaussianBeliefProp.jl)
 2. [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl)
 
+## Awards
+1. UW-Madison Graduate School [SRGC](https://grad.wisc.edu/funding/grants-competition/) Conference Presentation Award. Summer 2024.
+
 ---
 
-[^1]: I will be presenting as a finalist at the 2024 [Mayr Symposium](https://www.systbio.org/ernst-mayr-award.html)!
+[^1]: I presented as a finalist at the 2024 [Mayr Symposium](https://www.systbio.org/ernst-mayr-award.html).
