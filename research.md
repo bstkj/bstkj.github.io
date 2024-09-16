@@ -9,7 +9,7 @@ Here is a sanitized version of the [research statement](/files/research_statemen
 that I wrote for my 2024--2025 Chateaubriand Fellowship application.
 
 ## Publications
-**Teo B.**, Bastide P., Ané C. 2024. *Leveraging graphical model techniques to study evolution on phylogenetic networks*. arXiv preprint arXiv:2405.09327. [10.48550/arXiv.2405.09327](https://doi.org/10.48550/arXiv.2405.09327)
+**Teo B.**, Bastide P., Ané C. 2024. *Leveraging graphical model techniques to study evolution on phylogenetic networks*. Philosophical Transactions of the Royal Society B (in press). [10.48550/arXiv.2405.09327](https://doi.org/10.48550/arXiv.2405.09327)
 
 **Teo B.**, Rose J., Bastide P., Ané C. 2023. *Accounting for Within-Species Variation in Continuous Trait Evolution on a Phylogenetic Network*. Bulletin of the Society of Systematic Biologists. 2:1–29. [10.18061/bssb.v2i3.8977](https://doi.org/10.18061/bssb.v2i3.8977)
 
@@ -21,6 +21,9 @@ Tang S., Lee T.S., Li M., Zhang Y., Xu Y., Liu F., **Teo B.**, Jiang H. 2018. *C
 *Belief propagation for continuous trait evolution on phylogenetic networks*. UW-Madison SGSA Student Seminar. Madison, WI. Nov 2022
 
 *Accounting for Within-Species Variation in Continuous Trait Evolution on a Phylogenetic Network*. Evolution conference. Cleveland, OH. June 2022
+
+## Workshops
+*Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM. Providence, RI. Fall 2024
 
 ## Software
 Contributor to: [PhyloGaussianBeliefProp.jl](https://github.com/JuliaPhylo/PhyloGaussianBeliefProp.jl), [PhyloNetworks.jl](https://github.com/JuliaPhylo/PhyloNetworks.jl)
