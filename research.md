@@ -16,14 +16,19 @@ that I wrote for my 2024--2025 Chateaubriand Fellowship application.
 Tang S., Lee T.S., Li M., Zhang Y., Xu Y., Liu F., **Teo B.**, Jiang H. 2018. *Complex pattern selectivity in macaque primary visual cortex revealed by large-scale two-photon imaging*. Current Biology. 28:38–48. [10.1016/j.cub.2017.11.039](https://doi.org/10.1016/j.cub.2017.11.039)
 
 ## Talks
+*Belief Propagation: An Introduction*. Graduate Students & Postdocs Seminar, *Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM, Brown University. Providence, RI. Fall 2024.
+
 *Leveraging graphical model techniques to study evolution on phylogenetic networks*. 3rd Joint Congress on Evolutionary Biology. Montreal, Canada. July 2024
 
 *Belief propagation for continuous trait evolution on phylogenetic networks*. UW-Madison SGSA Student Seminar. Madison, WI. Nov 2022
 
 *Accounting for Within-Species Variation in Continuous Trait Evolution on a Phylogenetic Network*. Evolution conference. Cleveland, OH. June 2022
 
+## Posters
+*Leveraging graphical model techniques to study evolution on phylogenetic networks*. *Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM, Brown University. Providence, RI. Fall 2024.
+
 ## Workshops
-*Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM. Providence, RI. Fall 2024
+*Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM, Brown University. Providence, RI. Fall 2024
 
 ## Software
 Contributor to: [PhyloGaussianBeliefProp.jl](https://github.com/JuliaPhylo/PhyloGaussianBeliefProp.jl), [PhyloNetworks.jl](https://github.com/JuliaPhylo/PhyloNetworks.jl)
