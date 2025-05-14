@@ -9,7 +9,7 @@ Here is a sanitized version of the [research statement](/files/research_statemen
 that I wrote for my 2024--2025 Chateaubriand Fellowship application.
 
 ## Publications
-**Teo B.**, Bastide P., Ané C. 2024. *Leveraging graphical model techniques to study evolution on phylogenetic networks*. Philosophical Transactions of the Royal Society B (in press). [10.48550/arXiv.2405.09327](https://doi.org/10.48550/arXiv.2405.09327)
+**Teo B.**, Bastide P., Ané C. 2024. *Leveraging graphical model techniques to study evolution on phylogenetic networks*. Philosophical Transactions of the Royal Society B. [10.1098/rstb.2023.0310](https://doi.org/10.1098/rstb.2023.0310)
 
 **Teo B.**, Rose J., Bastide P., Ané C. 2023. *Accounting for Within-Species Variation in Continuous Trait Evolution on a Phylogenetic Network*. Bulletin of the Society of Systematic Biologists. 2:1–29. [10.18061/bssb.v2i3.8977](https://doi.org/10.18061/bssb.v2i3.8977)
 
