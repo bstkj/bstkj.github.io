@@ -8,6 +8,8 @@ permalink: /research/
 Here is a sanitized version of the [research statement](/files/research_statement.pdf)
 that I wrote for my 2024--2025 Chateaubriand Fellowship application.
 
+---
+
 ## Publications
 **Teo B.**, Bastide P., Ané C. 2024. *Leveraging graphical model techniques to study evolution on phylogenetic networks*. Philosophical Transactions of the Royal Society B. [10.1098/rstb.2023.0310](https://doi.org/10.1098/rstb.2023.0310)
 
@@ -15,27 +17,42 @@ that I wrote for my 2024--2025 Chateaubriand Fellowship application.
 
 Tang S., Lee T.S., Li M., Zhang Y., Xu Y., Liu F., **Teo B.**, Jiang H. 2018. *Complex pattern selectivity in macaque primary visual cortex revealed by large-scale two-photon imaging*. Current Biology. 28:38–48. [10.1016/j.cub.2017.11.039](https://doi.org/10.1016/j.cub.2017.11.039)
 
-## Talks
-*Belief Propagation: An Introduction*. Graduate Students & Postdocs Seminar, *Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM, Brown University. Providence, RI. Fall 2024.
+---
 
-*Leveraging graphical model techniques to study evolution on phylogenetic networks*. 3rd Joint Congress on Evolutionary Biology. Montreal, Canada. July 2024
+## Presentations
+### Talks
+Fall 2024: *Belief Propagation: An Introduction*. Graduate Students & Postdocs Seminar, *Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM, Brown University. Providence, RI.
 
-*Belief propagation for continuous trait evolution on phylogenetic networks*. UW-Madison SGSA Student Seminar. Madison, WI. Nov 2022
+July 2024: *Leveraging graphical model techniques to study evolution on phylogenetic networks*. 3rd Joint Congress on Evolutionary Biology. Montreal, Canada.
 
-*Accounting for Within-Species Variation in Continuous Trait Evolution on a Phylogenetic Network*. Evolution conference. Cleveland, OH. June 2022
+Nov 2022: *Belief propagation for continuous trait evolution on phylogenetic networks*. UW-Madison SGSA Student Seminar. Madison, WI.
 
-## Posters
-*Leveraging graphical model techniques to study evolution on phylogenetic networks*. *Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM, Brown University. Providence, RI. Fall 2024.
+June 2022: *Accounting for Within-Species Variation in Continuous Trait Evolution on a Phylogenetic Network*. Evolution conference. Cleveland, OH.
 
-## Workshops
-*Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM, Brown University. Providence, RI. Fall 2024
+### Posters
+Fall 2024: *Leveraging graphical model techniques to study evolution on phylogenetic networks*. *Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM, Brown University. Providence, RI.
+
+### Workshops
+Fall 2024: *Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM, Brown University. Providence, RI.
+
+---
 
 ## Software
-Contributor to: [PhyloGaussianBeliefProp.jl](https://github.com/JuliaPhylo/PhyloGaussianBeliefProp.jl), [PhyloNetworks.jl](https://github.com/JuliaPhylo/PhyloNetworks.jl)
+**Major contributor**: [PhyloGaussianBeliefProp.jl](https://github.com/JuliaPhylo/PhyloGaussianBeliefProp.jl)
+
+**Minor contributor**: [PhyloTraits.jl](https://github.com/JuliaPhylo/PhyloTraits.jl)
+
+---
 
 ## Honors and Awards
-[Mayr Symposium](https://www.systbio.org/ernst-mayr-award.html), Finalist. 3rd Joint Congress on Evolutionary Biology. July 2024.
+### Individual
+July 2024: [Mayr Symposium](https://www.systbio.org/ernst-mayr-award.html), Finalist. 3rd Joint Congress on Evolutionary Biology.
 
-[SRGC](https://grad.wisc.edu/funding/grants-competition/) Conference Presentation Award. UW-Madison Graduate School. Summer 2024.
+Summer 2024: [SRGC](https://grad.wisc.edu/funding/grants-competition/) Conference Presentation Award. UW-Madison Graduate School.
 
-Statistics Poster Competition, 2nd place. CMU Undergraduate Research Symposium. May 2017.
+May 2017: Statistics Poster Competition, 2nd place. [CMU Undergraduate Research Symposium](https://www.cmu.edu/dietrich/news/news-stories/2017/may/meeting-of-the-minds-winners.html).
+
+### Group
+2025: Open Hall of Fame Inductee ([JuliaPhylo](https://juliaphylo.github.io/JuliaPhyloWebsite/)). [Inaugural UW-Madison Open Awards](https://ospo.wisc.edu/activities/open-awards)
+
+2025: [SORTEE Commendation Award](https://sortee.org/awards/) ([JuliaPhylo](https://juliaphylo.github.io/JuliaPhyloWebsite/))
