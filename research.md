@@ -21,6 +21,8 @@ Tang S., Lee T.S., Li M., Zhang Y., Xu Y., Liu F., **Teo B.**, Jiang H. 2018. *C
 
 ## Presentations
 ### Talks
+Nov 2025: *Adapting cluster graphs for inference of continuous trait evolution on phylogenetic networks*. Department of Statistics, National Cheng Kung University. Tainan, Taiwan.
+
 Fall 2024: *Belief Propagation: An Introduction*. Graduate Students & Postdocs Seminar, *Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM, Brown University. Providence, RI.
 
 July 2024: *Leveraging graphical model techniques to study evolution on phylogenetic networks*. 3rd Joint Congress on Evolutionary Biology. Montreal, Canada.
