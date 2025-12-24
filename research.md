@@ -11,11 +11,14 @@ that I wrote for my 2024--2025 Chateaubriand Fellowship application.
 ---
 
 ## Publications
-**Teo B.**, Bastide P., Ané C. 2024. *Leveraging graphical model techniques to study evolution on phylogenetic networks*. Philosophical Transactions of the Royal Society B. [10.1098/rstb.2023.0310](https://doi.org/10.1098/rstb.2023.0310)
+**Teo B.**, Bastide P., Ané C. 2025. *Leveraging graphical model techniques to study evolution on phylogenetic networks*. Philosophical Transactions of the Royal Society B. [10.1098/rstb.2023.0310](https://doi.org/10.1098/rstb.2023.0310)
 
 **Teo B.**, Rose J., Bastide P., Ané C. 2023. *Accounting for Within-Species Variation in Continuous Trait Evolution on a Phylogenetic Network*. Bulletin of the Society of Systematic Biologists. 2:1–29. [10.18061/bssb.v2i3.8977](https://doi.org/10.18061/bssb.v2i3.8977)
 
 Tang S., Lee T.S., Li M., Zhang Y., Xu Y., Liu F., **Teo B.**, Jiang H. 2018. *Complex pattern selectivity in macaque primary visual cortex revealed by large-scale two-photon imaging*. Current Biology. 28:38–48. [10.1016/j.cub.2017.11.039](https://doi.org/10.1016/j.cub.2017.11.039)
+
+## Preprints
+**Teo B.**, Ané C. 2025. *Adapting cluster graphs for inference of continuous trait evolution on phylogenetic networks*. arXiv preprint. [10.48550/arXiv.2512.18139](https://doi.org/10.48550/arXiv.2512.18139)
 
 ---
 
