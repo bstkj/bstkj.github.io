@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="timeline">
+  {% for post in site.posts %}
+    <div class="timeline-event">
+
+      <!-- Circle on the timeline -->
+      <div class="timeline-marker" onclick="toggleEvent(this)"></div>
+
+      <!-- Annotation: date + title -->
+      <div class="timeline-annotation" onclick="toggleEvent(this)">
+        <span class="timeline-date">{{ post.date | date: " %d %b %y" }}</span>
+        <span class="timeline-title">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </span>
+      </div>
+
+      <!-- Annotation + hidden content -->
+      <!-- <article class="timeline-body">
+        <h2 class="timeline-title" onclick="toggleEvent(this)">
+            <a href="{{ post.url }}" onclick="toggleEvent(this, event)">
+                {{ post.title }}
+            </a>
+          {{ post.title }}
+        </h2>
+
+        <div class="timeline-meta">
+          {{ post.date | date: " %d %b %y" }}
+        </div>
+
+        <div class="timeline-content">
+          {{ post.excerpt }}
+          <p>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+              Read more →
+            </a>
+          </p>
+        </div>
+      </article> -->
+
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+function toggleEvent(el) {
+  const event = el.closest(".timeline-event");
+
+  // optional: accordion behavior
+  document.querySelectorAll(".timeline-event.open")
+    .forEach(e => {
+      if (e !== event) e.classList.remove("open");
+    });
+
+  event.classList.toggle("open");
+}
+</script>

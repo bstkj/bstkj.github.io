@@ -289,3 +289,77 @@ sup {font-size:xx-small; vertical-align:super;}
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+/**************************/
+/* TIMELINE STYLES START  */
+/**************************/
+.timeline {
+  position: relative;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 10px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: $gray;
+  z-index: 0; /* behind circles */
+}
+
+.timeline-event {
+  position: relative;
+  margin-bottom: 2.5rem;
+}
+
+.timeline-marker {
+  position: absolute; /* absolute inside timeline-event */
+  left: 4px; /* center over the line (line width 2px + circle border) */
+  top: 0.4rem; /* adjust vertical alignment */
+  width: 14px;
+  height: 14px;
+  border: 3px solid $darkGray;
+  background: $white;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 10;         /* above the line */
+}
+
+.timeline-annotation {
+  margin-left: 2rem; /* distance from line */
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+}
+
+.timeline-date {
+  font-size: 0.8rem;
+  color: $gray;
+}
+
+.timeline-title a {
+  font-weight: 600;
+  color: $darkGray;
+
+  &:hover {
+    color: $blue;
+  }
+}
+
+.timeline-event .timeline-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  margin-left: 2rem;
+}
+
+.timeline-event.open .timeline-content {
+  max-height: 300px;
+}
+
+/**************************/
+/* TIMELINE STYLES END    */
+/**************************/
