@@ -25,7 +25,8 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  // max-width: 740px;
+  max-width: 880px;
   padding: 0 10px;
   width: 100%;
 }
@@ -230,6 +231,10 @@ nav {
     font-weight: 300;
     letter-spacing: 1px;
 
+    &.active {
+      font-weight: bold;
+    }
+
     @include mobile {
       margin: 0 10px;
       color: $blue;
@@ -341,7 +346,8 @@ sup {font-size:xx-small; vertical-align:super;}
 }
 
 .timeline-title a {
-  font-weight: 600;
+  // font-weight: 600;
+  font-weight: normal;
   color: $darkGray;
 
   &:hover {
@@ -359,7 +365,6 @@ sup {font-size:xx-small; vertical-align:super;}
 .timeline-event.open .timeline-content {
   max-height: 300px;
 }
-
 /**************************/
 /* TIMELINE STYLES END    */
 /**************************/
