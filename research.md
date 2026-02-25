@@ -7,6 +7,7 @@ permalink: /research/
 ## Research statement
 Here is a sanitized version of the [research statement](/files/research_statement.pdf)
 that I wrote for my 2024--2025 Chateaubriand Fellowship application.
+This is **old**, and will be updated in the coming months.
 
 ---
 
@@ -24,6 +25,8 @@ Tang S., Lee T.S., Li M., Zhang Y., Xu Y., Liu F., **Teo B.**, Jiang H. 2018. *C
 
 ## Presentations
 ### Talks
+Feb 2026: *Adapting cluster graphs for inference of continuous trait evolution on phylogenetic networks*. iTHEMS Biology Seminar, RIKEN. Wako, Saitama.
+
 Nov 2025: *Adapting cluster graphs for inference of continuous trait evolution on phylogenetic networks*. Department of Statistics, National Cheng Kung University. Tainan, Taiwan.
 
 Fall 2024: *Belief Propagation: An Introduction*. Graduate Students & Postdocs Seminar, *Theory, Methods, and Applications of Quantitative Phylogenomics*. ICERM, Brown University. Providence, RI.

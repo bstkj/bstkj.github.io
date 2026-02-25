@@ -368,3 +368,9 @@ sup {font-size:xx-small; vertical-align:super;}
 /**************************/
 /* TIMELINE STYLES END    */
 /**************************/
+
+/* Footnote text (the part after the colon) */
+.footnotes {
+  font-size: 0.9em;   /* makes it smaller than body text */
+  line-height: 1;   /* optional: tighten spacing */
+}
